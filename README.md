@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @MOHAMED-MAHMOUD
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning roadmap for network pentration testing 
-- 💞️ I’m looking to collaborate on cybersecurity planet🌍
-- 📫 How to reach me:  https://www.facebook.com/profile.php?id=100034201881959
+👋 Hi, I'm Mohamed Mahmoud!
+
+- 👀 I'm deeply passionate about **Cybersecurity** and constantly exploring new technologies in the field.
+- 🌍 I'm open to collaborating on projects related to **network security, ethical hacking, or cybersecurity awareness**.
+- 📫 Feel free to connect with me on LinkedIn. : www.linkedin.com/in/mohamed-mahmoud770
+
 
 <!---
 MOHAMED-MAHOUD/MOHAMED-MAHOUD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
